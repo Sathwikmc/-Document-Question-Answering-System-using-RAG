@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) application that allows users to upload Paracetamol-related PDF documents and ask intelligent, context-aware questions. Built with **Streamlit**, **LangChain**, and **Groq** (100% free inference).
 
----
+----
 
 ## 🚀 Features
 
